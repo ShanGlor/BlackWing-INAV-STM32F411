@@ -11,6 +11,10 @@ HOOKUP
 
 ![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/raw/main/blackpill-fc-pinout-LARGE-rev3-FixedWing.png?dl=0)
 
+![My Remote Image](https://github.com/ShanGlor/BlackWing-INAV-STM32F411/blob/main/20230408_180419-2.jpg?dl=0)
+
+
+
 IMPORTANT NOTE: Check CLI to verify pin assignments (hookup image for reference only).
 
 !!!No guarantees. No warranties. Use at your own risk.!!!
