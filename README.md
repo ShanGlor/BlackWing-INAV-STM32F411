@@ -15,6 +15,9 @@ HOOKUP
 
 ![My Remote Image](https://github.com/ShanGlor/BlackWing-INAV-STM32F411/blob/main/20230408_180419-2.jpg?dl=0)
 
+Short Test Video
+
+https://youtube.com/shorts/Y-1Sab77-fE
 
 
 
