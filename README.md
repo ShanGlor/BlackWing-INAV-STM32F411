@@ -23,7 +23,7 @@ GPS: BN-220T
 
 HOOKUP
 
-![My Remote Image](https://github.com/ShanGlor/BlackWing-INAV-STM32F411/blob/main/blackpill-fc-pinout-LARGE-rev2-FixedWing-F22.png?dl=0)
+![My Remote Image](https://github.com/ShanGlor/BlackWing-INAV-STM32F411/blob/main/blackpill-fc-pinout-LARGE-rev2-FixedWing-F22A.png?dl=0)
 
 ![My Remote Image](https://github.com/ShanGlor/BlackWing-INAV-STM32F411/blob/main/20230408_180419-2.jpg?dl=0)
 
